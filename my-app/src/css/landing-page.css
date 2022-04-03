@@ -14,7 +14,6 @@
     align-items: center;
     width: min-content;
     margin: 0 auto;
-    background-color: aqua;
     top: 2rem;
 }
 
@@ -37,6 +36,10 @@
     background-color: var(--primary-color);
     top: 22rem;
     left: 17.5rem;
+}
+
+.btn-link{
+    text-decoration: none;
 }
 
 .landing-page-image{
